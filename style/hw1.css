@@ -15,11 +15,14 @@ header{
     padding-bottom:3%;
    /* height:150px;*/
     height:20%;
-        text-align: center;
-
-    
-    
+    text-align: center;
 }
+
+    @media screen and (max-height=600px;){
+        header{ height:30%;}
+    }
+    
+
 header h1{
     color:#ffffff;
     text-transform: lowercase;
