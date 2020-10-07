@@ -72,5 +72,5 @@ img {
     height: 60%;
 }
 @media screen and (max-height:600px;){
-        .right,.left{ height:80%;}
+        .right,.left{ height:100%;}
     }
