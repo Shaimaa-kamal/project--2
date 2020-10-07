@@ -4,7 +4,7 @@ body{
     padding:0 0.5%;
     height:100%;
 }
-
+main{height:100%;}
 header{
     background: #236985 url("../images/flywheel.jpg");
     background-repeat:no-repeat;
@@ -69,7 +69,7 @@ img {
 .right,.left{
     float:left;
     display:inline-block;
-    height: 60%;
+    height: 65%;
 }
 @media screen and (max-height:600px;){
         .right,.left{ height:100%;}
